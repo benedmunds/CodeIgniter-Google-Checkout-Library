@@ -2,6 +2,8 @@
 /**
  * Name:  Google Checkout
  * 
+ * Location: http://github.com/benedmunds/CodeIgniter-Google-Checkout-Library  
+ * 
  * Author:  Ben Edmunds
  *          ben.edmunds@gmail.com
  *          @benedmunds 
